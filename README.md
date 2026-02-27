@@ -1,5 +1,4 @@
-## Plano de Aulas e Avaliações
-
+## Planejamento de Aulas 
 
 - 28       fevereiro (Questões da OBI)
 - 02 e 03  março     (Introdução a Fluxogramas + Exercícios com Fluxogramas)
@@ -12,6 +11,7 @@
 - 13       abril     (Projeto)
 
 
+## Planejamento de Avaliações
 - *14/04 - Entrevista do Projeto Prático*
 - *27/04 - Atividade de Laboratório*
 - *04/05 - Prova Teórica*
