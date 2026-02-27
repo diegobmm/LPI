@@ -5,7 +5,7 @@
 - 09 e 10  março     (Introdução à Linguagem de Programação + Meu Primeiro Programa)          
 - 16 e 17  março	   (Entrada e Saída de Dados + Variáveis e Conversão de Tipos)
 - 23 e 24  março	   (Operadores Aritméticos)
-- 30 e 31  março     (Estruturas de Decisão + Operadores Relacionais)
+- 30 e 31  março     (Estruturas Condicionais + Operadores Relacionais)
 
 - 06 e 07  abril	   (Projeto)
 - 13       abril     (Projeto)
