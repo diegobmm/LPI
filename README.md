@@ -2,7 +2,7 @@
 
 - 28       fevereiro (Questões da OBI)
 - 02 e 03  março     (Introdução a Fluxogramas + Exercícios com Fluxogramas)
-- 09 e 10  março     (Introdução à Linguagem de Programação + Meu Primeiro Programa)          
+- 09 e 10  março     (Exercícios com FLuxogramas + Introdução à Linguagem de Programação + Meu Primeiro Programa)          
 - 16 e 17  março	   (Entrada e Saída de Dados + Variáveis e Conversão de Tipos)
 - 23 e 24  março	   (Operadores Aritméticos)
 - 30 e 31  março     (Estruturas Condicionais + Operadores Relacionais)
