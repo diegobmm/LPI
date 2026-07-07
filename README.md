@@ -6,4 +6,4 @@
 ## Planejamento de Avaliações - II Unidade
 - *13/07 - Entrevista do Projeto Prático*
 - *20/07 - Atividade de Laboratório*
-- *24/07 - Prova Teórica*
+- *24/08 - Prova Teórica*
