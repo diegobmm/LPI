@@ -37,7 +37,7 @@ A dupla já apresentava o código praticamente concluído. Entretanto, durante o
 **07/07 – Roney e Cleber**
 Durante a avaliação do projeto, ambos demonstraram dificuldade para explicar o funcionamento do código e compreender as soluções implementadas.
 
-**Anotações sobre a Aula III Unidade **
+**Anotações sobre a Aula III Unidade**
 
 **22/09 – Nickson e Gregory**
 Nickson: Não compareceu à aula anterior (21/09). Na aula de hoje (22/09), permaneceu conversando durante grande parte da aula, principalmente com o aluno Gregory. Mesmo após ser chamado a atenção, voltava pouco tempo depois a se ocupar com assuntos alheios à atividade proposta.
